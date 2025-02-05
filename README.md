@@ -20,7 +20,7 @@ This repository complements the **12-week Python course**, covering:
 ## **Getting Started**  
 ### **1️⃣ Clone the Repository**  
 ```bash  
-git clone https://github.com/jshiriyev/notebook-python.git  
+git clone https://github.com/jshiriyev/study-python.git  
 ```
 or download as a ZIP file.  
 
@@ -47,7 +47,7 @@ jupyter lab
 
 ## **Repository Structure**  
 ```
-📂 notebook-python/
+📂 study-python/
  ┣ 📂 notebooks/
  ┃ ┣ 📜 01_python_basic_syntax.ipynb
  ┃ ┣ 📜 02_flow_control_and_functions.ipynb
